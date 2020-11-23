@@ -11,5 +11,4 @@ I'm considering creating a blog.
 <ul>
 <li><a href="https://twitter.com/{{ site.twitter_username }}">Twitter</a></li>
 <li><a href="https://github.com/{{ site.github_username }}">GitHub</a></li>
-<li>
 </ul>
