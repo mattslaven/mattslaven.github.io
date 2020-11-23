@@ -1,5 +1,9 @@
 # My Projects
 Here is a list of projects that I am working on:
+<ul>
+  <li><a href="https://mattslaven.github.io/HelloWorld/">Hello World Project</a></li>
+  <li><a href="https://github.io/HelloWorld/">Hello World Project</a></li>
+</ul>
 
 # My Interests
 I'm interested in technology & nature.
