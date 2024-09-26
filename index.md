@@ -5,7 +5,7 @@ Here is a list of projects that I am working on:
 </ul>
 
 # My Interests
-I'm interested in technology & nature.
+Technology & nature are my primary enjoyments. Of particular interest are the nexus of these areas, such as rock climbing, camping, sailing, skiing and snowboarding.
 
 # My Blog
 I'm considering creating a blog.
