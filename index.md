@@ -18,6 +18,16 @@ As the legislative liason this year, at each meeting I present an update of rece
   <li><a href="https://mattslaven.github.io/LU20250609/"></a>June 9, 2025</li>
 </ul>
 
+Blog format
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 # Field Local Schools - reference sites
 <ul>
   <li><a href="https://www.fieldlocalschools.org/board-of-education/index">Board of Education (main site)</a></li>
