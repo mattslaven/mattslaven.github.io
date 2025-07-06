@@ -1,0 +1,55 @@
+DeWine moves to implement School Bus Safety Workgroup recommendations in biennial budget
+March 7, 2025
+Gov. Mike DeWine’s executive budget, which was introduced as House Bill (HB) 96, primarily focused on the funding components of transportation plus the initiatives developed in the School Bus Safety Workgroup. The introduced bill would increase the minimum state share of transportation from 42% in FY25 to 46% in FY26 and 50% in FY27. The increased percentages are consistent with the Fair School Funding Plan’s transportation phase-in.
+
+In August 2023, DeWine brought together 13 partnering groups and individuals to serve on a panel to review the state's school bus-related regulations and safety requirements. The group released its report on Jan. 31, 2024, which included 17 recommendations. HB 96 includes a couple of those recommendations. Specifically, as it pertains to annual driver training requirements, the bill requires that, by July 1, 2026, employed school bus and motor van drivers must annually complete six hours of in-service training. Current law requires four hours annually. The bill also requires that the Ohio Department of Education and Workforce (ODEW) develop the curriculum for the in-service training and approve training providers by July 1, 2026. Lastly, the bill authorizes the classroom portion of school bus driver recertification training to be conducted online. This is similar to current law that allows for courses for pre-service training and annual in-service training to be conducted online.
+
+Another recommendation that is included is school bus safety grants, in the amount of $30 million, that can be used in accordance with guidelines established by ODEW and the Ohio Department of Public Safety (ODPS). The grant money could be used for the following safety features:
+external school bus cameras
+crossing arms
+lane-departure warning systems
+electronic stability control
+lighted crossover mirrors
+Colorado Rack Test-approved bus frames
+fully illuminated stop arms at the front and rear of the bus
+fully illuminated “school bus” signs
+collision-avoidance systems
+all LED lights
+ground wash lights
+reflective chevron
+
+As it pertains to the school bus safety grant, ODEW would create an application for eligible applicants to provide details on the funding amount, number of buses affected and specific safety improvements. A school district could use the funds for repairs or replacements, or adding safety features to active buses. The funds also could be used for enhancements when purchasing new buses. Additionally, ODEW would be required to apply a measure of local capacity in determining grant allocations. The bill also indicates who is eligible to apply for the school bus safety grants, including:
+city, local, exempted village or joint vocational school districts;
+community schools;
+STEM schools;
+county board of developmental disabilities;
+chartered nonpublic schools
+
+The list currently doesn’t include educational services centers (ESCs) and OSBA is working to get an amendment to the bill that would add ESCs to the specified list.
+
+The introduced bill does not contain any additional transportation policy changes. However, as the bill moves through the legislative process, it could pick up additional changes. It is likely that either the House or Senate or both could include additional school bus safety items. Both are considering competing, stand-alone school bus bills. The main difference between the bills, outlined below, is that one has the illegal passage as a criminal violation and the other has it as a civil penalty.
+
+HB 3 — Enact the School Bus Safety Act
+The “School Bus Safety Act” would appropriate $25 million to create a School Bus Safety Grant Fund at ODEW to help districts with the cost of installing safety features on new and existing school buses. The bill would also increase the penalties for illegally passing a stopped school bus and designate August as “School Bus Safety Month.” 
+
+Senate Bill (SB) 62 — Enact the School Bus Safety Act
+SB 62 is the Senate’s version of the “School Bus Safety Act.” This bill would allow civil penalties for illegally passing a school bus if the driver cannot be identified. SB 62 directs fees and fines related to illegally passing a school bus to the school bus safety grant fund at ODEW. Additionally, the bill designates the month of August as "School Bus Safety Awareness Month."
+
+Ohio General Assembly focusing on property taxes
+Feb. 22, 2025
+For the past three years, home valuations have been historically high, resulting in homeowners paying higher property taxes. The Ohio General Assembly is set to address this issue through multiple property tax bills. It is likely that at least one property tax bill will pass during the next six months.
+
+The homestead exemption is a reduction program that the legislature can use to address property taxes for certain individuals. Ohio’s constitution allows the legislature to give a property tax credit to homeowners 65 years of age or older who have a household income below a certain threshold, which is $40,000 for the current tax year. The threshold amount is subject to inflation. Additionally, the legislature has provided a homestead exemption for a homeowner who is an honorably discharged veteran of the armed forces with a total disability or the veteran’s surviving spouse in addition to a surviving spouse of an emergency responder who died in the line of duty. The legislature is limited in expanding eligibility for a homestead exemption. It’s important to note that the current law requires that the property tax credit be paid by the state of Ohio, meaning local governments that levy property taxes don’t lose local revenue. Instead, local governments receive state funds reimbursing the property tax credit.
+
+Both the Ohio House and Senate have introduced bills that would expand homestead exemption eligibility. Some of these proposals maintain the state of Ohio reimbursing local governments; however, some would only partially reimburse local governments. The partial reimbursement further complicates school funding at the state level since the state share index includes the home values of those eligible for the homestead exemption. This would create a situation in which school districts not only receive less local revenue but also less state revenue. The homestead exemption is needed, and the legislature should look for ways to expand eligibility, but the legislature needs to consider how local and state school funding interact when considering the reimbursement language.
+
+Similar to the homestead exemption, the legislature is also looking at a circuit breaker bill. A circuit breaker is a refundable income tax credit or rebate for homeowners and renters whose property taxes or a portion of their rent exceed a certain percentage. The legislature is currently considering 5% of someone’s income. Since the circuit breaker is an income tax credit, the state of Ohio would pay the credit, and local governments would still receive the local revenue from the homeowner or renter.
+
+Another area of property taxes that the legislature is considering changing is the 20-mill floor. The 20-mill floor is the state-required millage that school districts need to levy to receive state funding. Currently, all fixed-rate levies and inside millage are used to calculate a school district’s 20-mill floor amount. Fixed sum levies — including emergency and substitute levels, bond levies and school district income tax (SDIT) — are not included in the 20-mill floor calculation. The legislature is considering changing the current law to require that all but bond levies be included in the calculation.
+
+While this approach would help some Ohio taxpayers, it will not help them all. The number of school districts on the 20-mill floor has increased over the past few years. There are 611 Ohio school districts and, in tax year 2021, 293 districts were on the floor. The number of districts on the floor increased in 2022 to 352 and further increased in 2023 to 420. The increase is due to the reduction factors in Ohio’s Constitution that require that millage amounts be reduced during the reappraisal process. When considering bills that would require all but bond levies to be included in the floor calculation, it’s worth noting that changing what is included in the 20-mill floor calculation will not address property taxes across the state since roughly half of the 420 districts on the floor have emergency and substitute levies.
+
+Additionally, as it pertains to SDIT, there would likely be constitutional issues with combining property and income taxes in the calculation. The Ohio Constitution specifies that a floor can be established with respect to the “taxes charged for current expenses against the land and improvements [in the subdivision].”
+
+These are three areas that the legislature is currently exploring through recently introduced bills. The legislature is expected to introduce other property tax bills that would consider other ways to address this issue.
+
