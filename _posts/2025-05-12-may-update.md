@@ -1,0 +1,50 @@
+Ohio House passes budget bill
+Nicole Piscitani • April 21, 2025
+
+The biennial budget process takes several months to complete; it is introduced in early February and ends by June 30. During that process, both the Ohio House and Ohio Senate work to amend the budget based on each chamber’s funding priorities. On April 9, the Ohio House completed its budget work by amending House Bill 96, the biennial budget bill, and voting it out by a 60-39 vote.
+State funding formula
+The Ohio House made several education-related changes, including how the state funds K-12 education. The House maintained the fair school funding formula in law, but made some changes for FY26 and FY27. The changes made were to ensure that every school district in the state receives more money than they received in fiscal year 2025 (FY25). A district will receive its state funding based on the sum of the following:
+the district’s state foundation aid, less supplemental targeted assistance, for FY25;
+an additional amount equal to 50% of the difference between the district’s foundation aid for the fiscal year and the district’s state foundation aid, less supplemental targeted assistance, for FY25, if the difference is positive.
+Additionally, the House included payments to ensure that growing districts receive more funds and that districts do not receive funding below their FY25 funding. The bill language:
+Provides an enrollment growth supplement in FY26 and FY27 to districts whose enrolled Average Daily Membership (ADM) grew by at least 3% between FY22 and FY25 for FY26 payments, and between FY23 and FY26 for the FY27 payments.
+The payment is calculated as follows:
+Districts that grew between 3%-5% will receive $150 per student in FY26 and $200 per student in FY27
+Districts that grew between 5%-10% will receive $100 per student in FY26 and $150 in FY27
+Districts that grew more than 10% will receive $50 per student in FY26 and $100 per student in FY27
+Provides additional payments in FY26 and FY27 that guarantee a district’s temporary foundation funding does not fall below its FY25 foundation aid, including supplemental targeted assistance.
+Finally, the House included additional funding changes and requirements:
+Provides a base funding supplement in FY26 and FY27 equal to $20 per student in FY 26 and $30 per student in FY27.
+Freezes the amount of special education funding withheld for high-cost special education students to what was withheld in FY25.
+Requires districts to spend at least the amount that was spent in FY25 in the following categories:
+special education funding;
+disadvantaged pupil impact aid (DPIA);
+English learner funding;
+gifted funds, excluding gifted professional development;
+career-technical education and career-technical associated services funding;
+student wellness and success funding.
+Maintains current law regarding required uses of student wellness and success funds.
+Prohibits any district from spending more than 15% of its annual operating budget on administrative salaries and benefits and other costs associated with the district’s administrative offices.
+Allows districts to use funds from the Student Support and Academic Enrichment program for numeracy, literacy, a safe and drug-free learning environment and healthy students using the success sequence curriculum.
+Cash balance carryover
+While the state funding formula provides additional revenue to all school districts, the House included a provision that will greatly impact over 500 school districts across the state. The bill would modify the requirement that the county budget commission (budget commission) reduce school district property tax rates based on the district’s carryover balance of previous fiscal year general fund expenditures. Districts that have a carryover balance greater than 30% would be subject to the budget commission mandate to modify the property tax rates. The bill also creates an earlier timeline for reviewing school district data and rate reductions and establishes a special timeline for FY25 and tax year 2025. Lastly, the bill specifies that rate reductions only apply to that tax year and requires new language on the tax bill that explains the temporary rate reduction. The House also made two policy changes regarding the budget commission and the five-year forecasts:
+removes the county prosecutor from the budget commission and makes the president of the board of county commissioners a member instead;
+reduces the duration for school district operational revenue and expenditure forecasts from five to three years.
+The cash balance carryover language is incredibly concerning. School districts should be contacting their state senators to not only communicate the impact of the bill but also to explain their cash balance story. Additionally, districts need to engage parents, businesses and all members of the community to let them know the impact to the school district, if this provision is enacted. Districts should encourage the community to help voice their concern to state senators.
+
+Biennial budget could make changes to State Board of Education
+by Nicole Piscitani • May 11, 2025
+
+The Ohio Senate is working on the biennial budget, House Bill (HB) 96, and will be releasing its changes in June. The biennial budget not only provides funding but also contains education-related policy changes affecting attendance, report cards, assessments and more. Changes by the Ohio House also impacted the State Board of Education.
+
+In the most recent biennial budget, enacted July 1, 2023, HB 33 made sweeping changes to the State Board. HB 33 transferred most of the responsibilities of the State Board and the superintendent of public instruction to a newly created position, the director of education and workforce. Appointed by the governor, the director oversees the newly named Ohio Department of Education and Workforce (DEW) and is responsible for primary, secondary, special and career-technical education. The State Board and the superintendent of public instruction retain duties and broad powers regarding educator licensure, licensee disciplinary actions and school district territory transfers.
+
+In HB 96, the Ohio House included several provisions that would make further changes to the State Board. Currently, there are 19 board members. The governor appoints eight members, and 11 are elected by constituents in the State Board districts. A provision in the House-passed version of HB 96 would eliminate the 11 elected members and reduce the appointed members to five. Additionally, the State Board would be required to have at least one member to represent each of the following: a rural, suburban and urban school district; a community school; and a chartered nonpublic school.
+
+Before the changes made by HB 33, the State Board received general revenue funds that included the State Board of Education Licensure Fund. HB 33 removed general revenue funds and required that all operations be paid from the State Board of Education Licensure Fund. Since this change, the State Board has struggled monetarily and sought additional funds from the legislature in December 2024.
+
+HB 96 includes multiple funding changes.
+First, the bill requires that the operating expenses be paid primarily from the Occupational Licensing and Regulatory Fund. The State Board of Education Licensure Fund will be eliminated, requiring that all teacher licensure payments be deposited in the Occupational Licensing and Regulatory Fund.
+Secondly, the bill requires that the State Board establish license, certificate or permit fee amounts that, along with any appropriations made by the General Assembly, will be enough to cover its annual estimated operating expenses, instead of just the cost of administering the State Board’s licensure system as under current law. Furthermore, the bill eliminates the Resident Educator Summative Assessment (RESA), which is an expense to the State Board and costs over $1 million annually. The State Board requested the elimination of RESA as a cost-saving measure.
+
+Senate Education Committee Chair Andrew O. Brenner (R-Delaware) has hinted that the Ohio Senate will likely make additional changes to the State Board composition and the funding structure.
