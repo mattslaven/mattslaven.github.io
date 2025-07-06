@@ -1,3 +1,13 @@
+# My beliefs
+I believe that supportive schools are the foundation for the strength of our community.
+
+# My background
+I moved to Brimfield in 1974. My father taught at Field High School and my mother taught at Suffield Elemtary School.
+
+I earned my engineering degree (BSEE) and business degree (MBA) from Duke University. I have worked for 25 years at Motorola, Ford and IBM.
+
+I was appointed to the Field Local Schools Board of Education in January of 2024.
+
 # Board Meetings
 Upcoming meetings will be held on the following dates:
 <ul>
