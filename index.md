@@ -10,15 +10,6 @@ Upcoming meetings will be held on the following dates:
 
 # Legislative Updates
 As the legislative liason this year, at each meeting I present an update of recent legislative changes. You can review these updates below.
-<ul>
-  <li><a href="https://mattslaven.github.io/LU20250210/">February 10, 2025</a></li>
-  <li><a href="https://mattslaven.github.io/LU20250310/"></a>March 10, 2025</li>
-  <li><a href="https://mattslaven.github.io/LU20250414/"></a>April 14, 2025</li>
-  <li><a href="https://mattslaven.github.io/LU20250512/"></a>May 12, 2025</li>
-  <li><a href="https://mattslaven.github.io/LU20250609/"></a>June 9, 2025</li>
-</ul>
-
-Blog format
 
 <ul>
   {% for post in site.posts %}
