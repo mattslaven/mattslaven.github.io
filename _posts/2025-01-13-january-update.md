@@ -1,6 +1,6 @@
-OSBA legislative report
-To take effect on February 25, 2025:
-Senate Bill 104 - takes effect on February 25, 2025
+<b>OSBA legislative report<b><br>
+To take effect on February 25, 2025:<br>
+Senate Bill 104 - takes effect on February 25, 2025<br>
 HB 183 was added as an amendment to SB 104 and passed by the House on July 26, 2024. SB 104 (inclusive of HB 183) was passed out of the legislature on November 13, 2024. Governor DeWine signed SB 104 on November 27, 2024. This bill addresses the College Credit Plus Program and the Protect All Students Act regarding single-sex bathroom access in primary and secondary schools and institutions of higher education. Sections 3314.03, 3319.90, 3326.11, and 3345.90 of the Revised Code are amended or enacted.
 
 On January 2, Governor DeWine signed into law SB54 and HB315. On January 8, he signed SB208, SB234, HB8 and HB 206. These laws will take effect 90 days after he signed them (i.e. April 2 & 8).
