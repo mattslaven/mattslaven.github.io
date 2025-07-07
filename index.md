@@ -29,9 +29,9 @@ As the legislative liason this year, at each meeting I present an update of rece
   {% endfor %}
 </ul>
 
-# Field Local Schools - reference sites
+# Reference sites
 <ul>
-  <li><a href="https://www.fieldlocalschools.org/board-of-education/index">Board of Education (main site)</a></li>
-  <li><a href="https://www.fieldlocalschools.org/board-of-education/meeting-notices">Meeting Notices</a></li>
-  <li><a href="https://www.pepple-waggoner.com/policies/field-local-school-district/">Board Policies</a></li>
+  <li><a href="https://www.fieldlocalschools.org/board-of-education/index">Field Local Schools | Board of Education</a></li>
+  <li><a href="https://brimfieldohio.gov/">Brimfield Township</a></li>
+  <li><a href="https://www.portagecounty-oh.gov/regional-planning-commission/pages/suffield">Suffield Township</a></li>
 </ul>
