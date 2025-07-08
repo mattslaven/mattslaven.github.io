@@ -6,11 +6,11 @@ The responsibility of the board of education is to advise the superintendent on 
 I appreciate your input and feedback. As one of five members of the board, I look forward to the opportunity to do my part to help us work together.
 
 # My background
-I moved to Brimfield in 1974. My father taught at Field High School and my mother taught at Suffield Elemtary School.
+In 1974, I moved to Brimfield. At that time, my father taught English and coached cross country at Field High School. My mother taught first grade for over 20 years at Suffield Elementary School.
 
-I earned my engineering degree (BSEE) and business degree (MBA) from Duke University. I have worked for 25 years at Motorola, Ford and IBM.
+I earned my engineering degree (BSEE) and business degree (MBA) from Duke University. I have worked for 25 years at IBM, Motorola, and Ford.
 
-I was appointed to the Field Local Schools Board of Education in January of 2024.
+In 2024, I was appointed to the Field Local Schools Board of Education.
 
 # Board Meetings
 Upcoming meetings will be held on the following dates:
