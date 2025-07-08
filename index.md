@@ -3,7 +3,7 @@ Supportive schools are the foundation for the strength of our community. By help
 
 The responsibility of the board of education is to advise the superintendent on community attitudes. We do not manage day-to-day operations of a school district; we ensure the system is well managed by professional administrators.
 
-I appreciate your input and feedback. As one of five members of the board, I look forward to the opportunity to do my part to help us work together.
+Your input and feedback is greatly appreciated. As one of five members of the board, I look forward to the opportunity to do my part to help us work together.
 
 # My background
 In 1974, I moved to Brimfield. At that time, my father taught English and coached cross country at Field High School. My mother taught first grade for over 20 years at Suffield Elementary School.
