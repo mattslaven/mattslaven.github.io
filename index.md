@@ -23,7 +23,7 @@ Upcoming meetings will be held on the following dates:
 </ul>
 
 # Legislative Updates
-As the legislative liason this year, at each meeting I present an update of recent legislative changes. You can review these updates below.
+As the legislative liaison this year, at our meetings I regularly present updates of recent legislative changes. You can review these updates below.
 
 <ul>
   {% for post in site.posts %}
