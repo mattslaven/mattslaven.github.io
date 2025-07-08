@@ -1,5 +1,9 @@
 # My beliefs
-I believe that supportive schools are the foundation for the strength of our community.
+Supportive schools are the foundation for the strength of our community. By helping to guide our students on their developmental journey, we build our community brick by brick.
+
+The responsibility of the board of education is to advise the superintendent on community attitudes. We do not manage day-to-day operations of a school district; we ensure the system is well managed by professional administrators.
+
+I appreciate your input and feedback. As one of five members of the board, I look forward to the opportunity to do my part to help us work together.
 
 # My background
 I moved to Brimfield in 1974. My father taught at Field High School and my mother taught at Suffield Elemtary School.
