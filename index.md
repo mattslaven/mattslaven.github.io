@@ -1,4 +1,4 @@
-# Matt Slaven for School Board | Field Local Schools
+# Matt Slaven for School Board
 ## My beliefs
 Supportive schools are the foundation for the strength of our community. By helping to guide our students on their developmental journey, we build our community brick by brick.
 
