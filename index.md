@@ -1,7 +1,4 @@
-# Matt Slaven for School Board
-In January 2024, I was appointed to the School Board for Field Local Schools. Currently, I am collecting signatures for my Nominating Petition to be a Member of the Board of Education after my term expires at the end of this year.
-
-## My beliefs
+# Matt Slaven
 Supportive schools are the foundation for the strength of our community. By helping to guide our students on their developmental journey, we build our community brick by brick.
 
 The responsibility of the board of education is to advise the superintendent on community attitudes. We do not manage day-to-day operations of a school district; we ensure the system is well managed by professional administrators.
