@@ -17,7 +17,7 @@ Upcoming meetings will be held on the following dates:
 <ul>
   <li>September 8, 2025</li>
   <li>October 13, 2025</li>
-  <li>November 17, 2025</li>
+  <li>November 10, 2025</li>
   <li>December 8, 2025</li>
 </ul>
 
